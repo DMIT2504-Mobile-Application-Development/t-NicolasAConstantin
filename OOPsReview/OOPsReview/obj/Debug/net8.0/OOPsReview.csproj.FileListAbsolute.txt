@@ -1,0 +1,13 @@
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\bin\Debug\net8.0\OOPsReview.deps.json
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\bin\Debug\net8.0\OOPsReview.dll
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\bin\Debug\net8.0\OOPsReview.pdb
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.AssemblyInfoInputs.cache
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.AssemblyInfo.cs
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.sourcelink.json
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.dll
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\refint\OOPsReview.dll
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\OOPsReview.pdb
+C:\Users\nicol\OneDrive\Documents\GitHub\t-NicolasAConstantin\OOPsReview\OOPsReview\obj\Debug\net8.0\ref\OOPsReview.dll

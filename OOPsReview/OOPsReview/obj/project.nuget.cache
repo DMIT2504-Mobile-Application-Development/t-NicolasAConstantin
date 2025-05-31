@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZqFAzYHpb0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\OOPsReview\\OOPsReview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nicol\\.nuget\\packages\\fluentassertions\\8.2.0\\fluentassertions.8.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E83B9E9-ABC1-46E6-9EE7-C2F9E1CFCC3C}|OOPsReview\\OOPsReview.csproj|c:\\users\\nicol\\onedrive\\documents\\github\\t-nicolasaconstantin\\oopsreview\\oopsreview\\employment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E83B9E9-ABC1-46E6-9EE7-C2F9E1CFCC3C}|OOPsReview\\OOPsReview.csproj|solutionrelative:oopsreview\\employment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EDABCC-492A-BC23-71DF-F307ADDCB68E}|UnitTestingForOOPs\\UnitTestingForOOPs.csproj|c:\\users\\nicol\\onedrive\\documents\\github\\t-nicolasaconstantin\\oopsreview\\unittestingforoops\\employment_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0EDABCC-492A-BC23-71DF-F307ADDCB68E}|UnitTestingForOOPs\\UnitTestingForOOPs.csproj|solutionrelative:unittestingforoops\\employment_should.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E83B9E9-ABC1-46E6-9EE7-C2F9E1CFCC3C}|OOPsReview\\OOPsReview.csproj|c:\\users\\nicol\\onedrive\\documents\\github\\t-nicolasaconstantin\\oopsreview\\oopsreview\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E83B9E9-ABC1-46E6-9EE7-C2F9E1CFCC3C}|OOPsReview\\OOPsReview.csproj|solutionrelative:oopsreview\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E83B9E9-ABC1-46E6-9EE7-C2F9E1CFCC3C}|OOPsReview\\OOPsReview.csproj|c:\\users\\nicol\\onedrive\\documents\\github\\t-nicolasaconstantin\\oopsreview\\oopsreview\\supervisorylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E83B9E9-ABC1-46E6-9EE7-C2F9E1CFCC3C}|OOPsReview\\OOPsReview.csproj|solutionrelative:oopsreview\\supervisorylevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\OOPsReview\\Utilities.cs",
+              "RelativeDocumentMoniker": "OOPsReview\\Utilities.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\OOPsReview\\Utilities.cs",
+              "RelativeToolTip": "OOPsReview\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:46:21.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employment_Should.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\UnitTestingForOOPs\\Employment_Should.cs",
+              "RelativeDocumentMoniker": "UnitTestingForOOPs\\Employment_Should.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\UnitTestingForOOPs\\Employment_Should.cs",
+              "RelativeToolTip": "UnitTestingForOOPs\\Employment_Should.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:32:03.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employment.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\OOPsReview\\Employment.cs",
+              "RelativeDocumentMoniker": "OOPsReview\\Employment.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\OOPsReview\\Employment.cs",
+              "RelativeToolTip": "OOPsReview\\Employment.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowKYAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:38:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SupervisoryLevel.cs",
+              "DocumentMoniker": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\OOPsReview\\SupervisoryLevel.cs",
+              "RelativeDocumentMoniker": "OOPsReview\\SupervisoryLevel.cs",
+              "ToolTip": "C:\\Users\\nicol\\OneDrive\\Documents\\GitHub\\t-NicolasAConstantin\\OOPsReview\\OOPsReview\\SupervisoryLevel.cs",
+              "RelativeToolTip": "OOPsReview\\SupervisoryLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T02:38:42.179Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
